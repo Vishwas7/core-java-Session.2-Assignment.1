@@ -1,0 +1,5 @@
+
+
+ If I talk about architecture java compiler, compiles the source code into bytecode.
+ During run time,(Java Virtual Machine) JVM  interprets this bytecode and generates
+ machine code which will be directly executed by the machine in which java program runs.
